@@ -19,6 +19,13 @@ Below you can see the JSON data you can use as body payloads.
     "email": "sarah.jones@caseware.com"
   }
 ```
+
+Emily is an external client and Sarah is a firm staff.
+
+> **🚨 Important**
+
+All tenants and application users are now preregistered in database. I'm assuming the app administrator registered the tenants and signed up the application users assigning their current roles.
+
 Example:
 
 <img width="1455" height="654" alt="image" src="https://github.com/user-attachments/assets/ca24728e-553f-4341-a9a5-742693ded969" />
