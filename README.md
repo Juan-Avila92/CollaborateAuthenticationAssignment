@@ -47,6 +47,10 @@ Authorization
 
 Now we have the current user access token and we are going to call the Authorization endpoint to know which roles and permissions the user has.
 
+
+<img width="1454" height="700" alt="image" src="https://github.com/user-attachments/assets/148fd729-668d-44e5-aa4f-2fdc2fb70059" />
+
+
 ```
 {
   "userId": "00000000-0000-0000-0000-000000000000",
@@ -61,5 +65,4 @@ Now we have the current user access token and we are going to call the Authoriza
   ]
 }
 ```
-
 
