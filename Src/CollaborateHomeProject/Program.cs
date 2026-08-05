@@ -32,7 +32,7 @@ builder.Services.AddSingleton<IPkceStore, MemoryPkceStore>();
 builder.Services.AddScoped<IDatabaseSeeder, DatabaseSeeder>();
 builder.Services.AddScoped<IAuthenticationProvider, MockAuthenticationProvider>();
 builder.Services.AddScoped<IAuthorizationService, AuthorizationService>();
-builder.Services.AddScoped<Application.Contracts.IAuthenticationService, Application.Services.AuthenticationService>();
+builder.Services.AddScoped<Application.Contracts.IAuthenticationService, Application.Services.AuthorizationService>();
 builder.Services.AddScoped<IPkceService, PkceService>();
 builder.Services.AddScoped<ITenantRepository, TenantRepository>();
 builder.Services.AddScoped<IApplicationUserRepository, ApplicationUserRepository>();
