@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "..\Applicati
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{620831E8-A22E-48E0-93AA-FF83DDA657C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationTests", "..\AuthenticationTests\AuthenticationTests.csproj", "{58155296-C4E5-4195-B30B-A70340AA8B4C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.Service.Tests", "..\AuthenticationTests\Application.Service.Tests.csproj", "{58155296-C4E5-4195-B30B-A70340AA8B4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
