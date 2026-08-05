@@ -1,3 +1,8 @@
+> **🚨 Important**
+
+If you want to clone this project, the solution file is located in the CollaborateAPI project
+_________________________________________________________
+
 The API is running on Azure App Service under this URL:
 
 https://collaborateapi20260804132553-bnbybxgma6a7h8he.canadacentral-01.azurewebsites.net/swagger/index.html
